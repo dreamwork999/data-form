@@ -1,6 +1,6 @@
 {
     "rewrites": [
-        { "source": "/stub/:path(.*)", "destination": "https://smshub.org/stub/:path" },
+        { "source": "/stubs/:path(.*)", "destination": "https://smshub.org/stubs/:path" },
         { "source": "/(.*)", "destination": "/index.html" }
     ]
 }
