@@ -113,6 +113,10 @@ function App() {
   return (
     <>
       <div className="container">
+        <h1>My Email: darkmember27@gmail.com</h1>
+        <p>
+          Please contact me via email
+        </p>
         <FormLabel htmlFor="country-selector">Country:</FormLabel>
         <FormSelect
           id="country-selector"
